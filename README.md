@@ -19,7 +19,7 @@
 <h3 align="left">Languages :</h3>
 <p align="left">  
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/javascript.png" width="40" height="40"/> </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/java.png" width="40" height="40"/> </a>  
+   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/java.png" width="40" height="40"/> </a>  
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/typescript.png" alt="typescript" width="40" height="40"/> </a>
 </p>
 
