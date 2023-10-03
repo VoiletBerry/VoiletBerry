@@ -18,9 +18,12 @@
 
 <h3 align="left">Languages :</h3>
 <p align="left">  
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/javascript.png" width="40" height="40"/> </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/java.png" width="40" height="40"/> </a>  
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/typescript.png" alt="typescript" width="40" height="40"/> </a>
 </p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=voiletberry&show_icons=true&theme=dark&text_color=74ecce&cache_seconds=1800&locale=en&layout=compact" alt="voiletberry" /></p>
 
 <h3 align="left">Libraries & Frameworks :</h3>
 <p align="left">
@@ -36,12 +39,10 @@
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
+
 <h3 align="left">DevOps :</h3>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=voiletberry&show_icons=true&theme=dark&text_color=74ecce&cache_seconds=1800&locale=en&layout=compact" alt="voiletberry" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=voiletberry&theme=dark" alt="voiletberry" /></p>
