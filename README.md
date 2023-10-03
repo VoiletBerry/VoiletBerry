@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/C4E16AQH9ZrVLyveQnQ/profile-displaybackgroundimage-shrink_350_1400/0/1660324483743?e=1701907200&v=beta&t=P5H7MSn13ZrjfuKgJH6l2GdySZp9_fepMlNeHqWCfCc)
+![logo](https://cdn.phenompeople.com/CareerConnectResources/prod/HONEUS/images/1920-568-coding-blog-1616781712070.png)
 
 <h1 align="center">Hi 👋, I'm Salman Ejaz</h1>
 <h3 align="center">Software Engineer</h3>
