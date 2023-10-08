@@ -38,6 +38,8 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=voiletberry&show_icons=true&theme=dark&text_color=74ecce&cache_seconds=1800&locale=en&layout=compact" alt="voiletberry" /></p>
+
 <h3 align="left">Databases :</h3>
 <p align="left">
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/postgresql.png" alt="postgresql" width="40" height="40"/> </a>
@@ -45,8 +47,6 @@
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/mysql.png" alt="mysql" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=voiletberry&show_icons=true&theme=dark&text_color=74ecce&cache_seconds=1800&locale=en&layout=compact" alt="voiletberry" /></p>
 
 <h3 align="left">Dev Tools :</h3>
 <p align="left">
