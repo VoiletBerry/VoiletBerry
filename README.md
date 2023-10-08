@@ -27,8 +27,6 @@
    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a>
 </p>
 
-
-
 <h3 align="left">Libraries & Frameworks :</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/react.js.png" alt="react" width="40" height="40"/> </a>
@@ -40,8 +38,6 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=voiletberry&show_icons=true&theme=dark&text_color=74ecce&cache_seconds=1800&locale=en&layout=compact" alt="voiletberry" /></p>
-
 <h3 align="left">Databases :</h3>
 <p align="left">
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/postgresql.png" alt="postgresql" width="40" height="40"/> </a>
@@ -50,12 +46,12 @@
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=voiletberry&show_icons=true&theme=dark&text_color=74ecce&cache_seconds=1800&locale=en&layout=compact" alt="voiletberry" /></p>
 
 <h3 align="left">Dev Tools :</h3>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/docker.png" alt="docker" width="40" height="40"/> </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-   
 </p>
 
