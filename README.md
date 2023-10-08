@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<img align="right" alt="coding" src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/code.gif" width="450">
+<img align="right" alt="coding" src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/code_white.gif" width="450">
 
 - 👨‍💻 My Portfolio : [https://salman-ejaz.netlify.app](https://salman-ejaz.netlify.app/)
 - 📫 Contact me : **salmanejaz8125@gmail.com**
