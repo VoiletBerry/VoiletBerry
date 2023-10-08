@@ -19,7 +19,7 @@
 <h3 align="left">Languages :</h3>
 <p align="left">  
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/javascript.png" width="40" height="40"/> </a>
-   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/java.png" width="40" height="40"/> </a>  
+   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>  
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/typescript.png" alt="typescript" width="40" height="40"/> </a>
    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a>
 </p>
@@ -31,7 +31,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/react.js.png" alt="react" width="40" height="40"/> </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/node.js.png" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/> </a> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/nextjs.png" alt="nextjs" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
