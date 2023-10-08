@@ -1,9 +1,12 @@
 ![logo](https://cdn.phenompeople.com/CareerConnectResources/prod/HONEUS/images/1920-568-coding-blog-1616781712070.png)
 
-<h1 align="center">Hi 👋, I'm Salman Ejaz</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">  
+  <a href="https://git.io/typing-svg">
+     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=2111F7&center=true&vCenter=true&width=435&lines=Hello%2C+There!+%F0%9F%91%8B+;I+am+Salman+Ejaz....;Nice+to+meet+you!" alt="Typing SVG" />
+  </a>
+</h1>
 
-<img align="right" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400">
+<img align="right" alt="coding" src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/code.gif" width="500">
 
 - 👨‍💻 My Portfolio : [https://salman-ejaz.netlify.app](https://salman-ejaz.netlify.app/)
 - 📫 Contact me : **salmanejaz8125@gmail.com**
@@ -24,7 +27,7 @@
    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=voiletberry&show_icons=true&theme=dark&text_color=74ecce&cache_seconds=1800&locale=en&layout=compact" alt="voiletberry" /></p>
+
 
 <h3 align="left">Libraries & Frameworks :</h3>
 <p align="left">
@@ -36,6 +39,8 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=voiletberry&show_icons=true&theme=dark&text_color=74ecce&cache_seconds=1800&locale=en&layout=compact" alt="voiletberry" /></p>
 
 <h3 align="left">Databases :</h3>
 <p align="left">
