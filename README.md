@@ -44,8 +44,8 @@
 <h3 align="left">Databases :</h3>
 <p align="left">
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/postgresql.png" alt="postgresql" width="40" height="40"/> </a>
- <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/mongodb.png" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/redis_icon.png" alt="mongodb" width="40" height="40"/> </a>
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/mongodb.png" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/redis_icon.png" alt="mongodb" width="40" height="40"/> </a> 
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VoiletBerry/DevIcons/main/mysql.png" alt="mysql" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
